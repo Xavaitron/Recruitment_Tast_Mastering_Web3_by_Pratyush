@@ -1,4 +1,4 @@
-# This is the Recruitment Task for the web3 Summer Project Mastering Web3.0 by Pratyush Kumar Singh(230784)
+# This is the Recruitment Task for the Summer Project Mastering Web3.0 by Pratyush Kumar Singh(230784)
 This sports management system has the following features:
 1. Booking Slots
 2. Cancelling Slots
