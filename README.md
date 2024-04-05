@@ -6,6 +6,9 @@ This sports management system has the following features:
 4. Display all slots available in a particular sport
 5. Show a user's history, including all the cancellations and bookings.
 6. Check the availability of a particular slot
+7. Store each transaction(cancellation/booking) as an object
+
+>Couldn't add frontend due to time constraints
 
 This is the output of the program if you run it.
 
